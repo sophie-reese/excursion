@@ -8,3 +8,7 @@ body{
     font-size: 50px;
     font-weight: normal;
 }
+.link--cta {
+    font-size: 16px;
+    color: aquamarine;
+}
